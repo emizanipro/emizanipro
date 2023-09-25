@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋 , Soy Emiliano Zani</h1><h3 align="center">Soy un Full Stack Apasionado</h3>- **
+<h1 align="center">Hola 👋 , Soy Emiliano Zani</h1><h3 align="center">Soy un Full Stack Apasionado</h3>
 
 <h3 align="left">Conéctate conmigo:</h3>
 
